@@ -52,8 +52,8 @@ The transcribed text is then displayed on the web interface.
 The application allows users to upload audio files directly through the interface. The uploaded file is temporarily saved, processed for transcription, and then deleted after processing.
 
 ### Example Usage
-Upload an Audio File: Click on the "Upload Audio" button and select a file in .wav, .mp3, or .m4a format.
-Transcribe the Audio: Click on the "Transcribe Audio" button in the sidebar to start the transcription process. The transcribed text will be displayed on the main page.
+Upload an Audio File: Click on the "Upload Audio" button and select a file in .wav, .mp3, or .m4a format.<br>
+Transcribe the Audio: Click on the "Transcribe Audio" button in the sidebar to start the transcription process. The transcribed text will be displayed on the main page.<br> 
 Play the Original Audio: Use the audio player in the sidebar to listen to the uploaded audio file.
 
 
